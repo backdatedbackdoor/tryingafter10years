@@ -1,0 +1,25 @@
+.blog{
+    border: 5px solid rgba(9, 184, 228, 0.575);
+    border-radius: 20px;
+    margin: 10px;
+    padding: 5px;
+    width: 30%;
+    float: left;
+    display: block;
+
+}
+.news{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+    padding: 5px;
+    margin-left: .5%;
+    border: 1px dashed green;
+    display: inline-block;
+    width: 98%;
+}
+.imp-news{
+    color: red;
+    background-color: black;
+    
+}
